@@ -1,0 +1,10 @@
+{
+	"name": "RestFulJSONAPI",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "4.13.0",
+		"body-parser": "*",
+                "method-override": "*",
+		"morgan": "*"
+	}
+}

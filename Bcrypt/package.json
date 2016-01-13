@@ -1,0 +1,7 @@
+{
+	"name": "Bcrypt",
+	"version": "1.0.0",
+	"dependencies": {
+		"bcrypt": "*"
+	}
+}

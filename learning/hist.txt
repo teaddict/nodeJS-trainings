@@ -1,0 +1,30 @@
+ 2003  ls
+ 2004  git add spellcheck_function.py 
+ 2005  git commit -m "return list"
+ 2006  git push -u origin master
+ 2007  cd
+ 2008  g++
+ 2009  sudo tar -zxvf ~/Downloads/node-v0.12.5.tar.gz 
+ 2010  cd node-v0.12.5/
+ 2011  ./configure 
+ 2012  sudo ./configure 
+ 2013  make
+ 2014  sudo make
+ 2015  sudo make install
+ 2016  node --version
+ 2017  cd
+ 2018  mkdir node
+ 2019  mv node-v0.12.5/ node/
+ 2020  sudo mv node-v0.12.5/ node/
+ 2021  ls
+ 2022  cd node/
+ 2023  ls
+ 2024  mkdir learning
+ 2025  cd learning/
+ 2026  vi first.js
+ 2027  node first.js 
+ 2028  history 10
+ 2029  history 120
+ 2030  history 20 > hist.txt
+ 2031  gedit hist.txt 
+ 2032  history 30 > hist.txt

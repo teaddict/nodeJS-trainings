@@ -1,0 +1,7 @@
+{
+	"name": "MongoDBTest",
+	"version": "1.0.0",
+	"dependencies": {
+		"mongoose": "4.0.6"
+	}
+}
